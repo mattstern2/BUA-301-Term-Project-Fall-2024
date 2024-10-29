@@ -10,6 +10,9 @@ output:
 
 # Deliverable 1
 ```{r}
+# Set URLs for data sets
+states_url <- "https://github.com/mattstern2/BUA-301-Term-Project-Fall-2024/raw/main/States.csv"
+swift_transactions_url <- "https://github.com/mattstern2/BUA-301-Term-Project-Fall-2024/raw/main/Swift_Transactions.csv"
 
 ```
 
@@ -138,3 +141,5 @@ output:
 ```{r}
 
 ```
+
+
